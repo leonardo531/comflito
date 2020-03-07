@@ -1,2 +1,6 @@
-test2
+ conflito
 # comflito
+teste
+
+test2
+master
